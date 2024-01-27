@@ -1,10 +1,10 @@
-package ma.enset.inventoryservice;
+package ma.security.customerfrontthymeleafapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class InventoryServiceApplicationTests {
+class CustomerFrontThymeleafAppApplicationTests {
 
     @Test
     void contextLoads() {

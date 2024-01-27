@@ -1,4 +1,4 @@
-package ma.enset.inventoryservice.entities;
+package ma.security.inventoryservice.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

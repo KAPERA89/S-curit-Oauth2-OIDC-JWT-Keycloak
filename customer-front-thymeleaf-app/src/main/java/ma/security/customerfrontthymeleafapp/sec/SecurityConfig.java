@@ -1,4 +1,4 @@
-package ma.enset.customerfrontthymeleafapp.sec;
+package ma.security.customerfrontthymeleafapp.sec;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

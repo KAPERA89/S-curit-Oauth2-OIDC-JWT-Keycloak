@@ -1,7 +1,7 @@
-package ma.enset.customerfrontthymeleafapp;
+package ma.security.customerfrontthymeleafapp;
 
-import ma.enset.customerfrontthymeleafapp.entities.Customer;
-import ma.enset.customerfrontthymeleafapp.repository.CustomerRepository;
+import ma.security.customerfrontthymeleafapp.entities.Customer;
+import ma.security.customerfrontthymeleafapp.repository.CustomerRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package ma.enset.inventoryservice.sec;
+package ma.security.inventoryservice.sec;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

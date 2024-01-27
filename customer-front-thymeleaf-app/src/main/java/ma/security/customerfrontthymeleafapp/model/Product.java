@@ -1,4 +1,4 @@
-package ma.enset.customerfrontthymeleafapp.model;
+package ma.security.customerfrontthymeleafapp.model;
 
 import lombok.*;
 

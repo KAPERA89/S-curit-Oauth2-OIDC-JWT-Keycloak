@@ -1,7 +1,7 @@
-package ma.enset.inventoryservice;
+package ma.security.inventoryservice;
 
-import ma.enset.inventoryservice.entities.Product;
-import ma.enset.inventoryservice.repository.ProductRepository;
+import ma.security.inventoryservice.entities.Product;
+import ma.security.inventoryservice.repository.ProductRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

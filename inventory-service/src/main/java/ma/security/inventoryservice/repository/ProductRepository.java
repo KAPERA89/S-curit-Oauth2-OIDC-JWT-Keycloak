@@ -1,6 +1,6 @@
-package ma.enset.inventoryservice.repository;
+package ma.security.inventoryservice.repository;
 
-import ma.enset.inventoryservice.entities.Product;
+import ma.security.inventoryservice.entities.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 

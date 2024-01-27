@@ -1,8 +1,7 @@
-package ma.enset.inventoryservice.web;
+package ma.security.inventoryservice.web;
 
-import ma.enset.inventoryservice.entities.Product;
-import ma.enset.inventoryservice.repository.ProductRepository;
-import org.springframework.security.access.prepost.PreAuthorize;
+import ma.security.inventoryservice.entities.Product;
+import ma.security.inventoryservice.repository.ProductRepository;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

@@ -1,8 +1,8 @@
-package ma.enset.customerfrontthymeleafapp.web;
+package ma.security.customerfrontthymeleafapp.web;
 
-import ma.enset.customerfrontthymeleafapp.entities.Customer;
-import ma.enset.customerfrontthymeleafapp.model.Product;
-import ma.enset.customerfrontthymeleafapp.repository.CustomerRepository;
+import ma.security.customerfrontthymeleafapp.entities.Customer;
+import ma.security.customerfrontthymeleafapp.model.Product;
+import ma.security.customerfrontthymeleafapp.repository.CustomerRepository;
 import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.http.HttpHeaders;
 import org.springframework.security.access.prepost.PreAuthorize;
